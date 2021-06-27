@@ -1,9 +1,9 @@
 # NLP-Sentiment-Comparison-Engine
 
 # Libraries Used
-tweepy
-textBlob
-tweet-preprocessor
+1) tweepy
+2) textBlob
+3) tweet-preprocessor
 
 # Working of the program
 Enter two keywords and the program instantly tells us which thing people love more between these keywords
