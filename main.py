@@ -7,8 +7,8 @@ from typing import List
 # downloading real time tweets
 
 # creating secret key and secret file to store consumer_key and consumer_secret
-consumer_key = "LpGzyBpcmARgNZSNrArg95jZK"
-consumer_secret = "WTzQpSw6FWjC5FBC23LBSaajWXKeDpo31YwPln0jteS9s2Hgwn"
+consumer_key = "LpGzyBpc"
+consumer_secret = ""
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 api = tweepy.API(auth)
 
