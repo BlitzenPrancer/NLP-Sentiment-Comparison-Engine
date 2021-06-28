@@ -7,8 +7,8 @@ from typing import List
 # downloading real time tweets
 
 # creating secret key and secret file to store consumer_key and consumer_secret
-consumer_key = "key goes over here"
-consumer_secret = "secret goes over here"
+consumer_key = "twitter key goes over here"
+consumer_secret = "twitter secret goes over here"
 auth = tweepy.AppAuthHandler(consumer_key, consumer_secret)
 api = tweepy.API(auth)
 
